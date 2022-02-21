@@ -1,0 +1,22 @@
+#TESTING:
+#url
+url: https://wiki.globalrelay.net
+pageId: 144985221
+
+#encode
+encode: utf-8
+
+# json attachment names
+new: new.json
+coverage: coverage.json
+
+#IMAP:
+user: lillian.xu@dev-globalrelay.net
+hostname: zimbra4-test-int-nvan.dev-globalrelay.net
+port: 143
+password: Password1
+
+#Reports
+Pods: ERS,SAL,RECON,CIC,SMTP,URS,ADSync,SCIM,GAS,KMS,SysAuth,SL
+#Pods: SL
+
